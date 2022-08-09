@@ -1,0 +1,15 @@
+{
+    "name": "justinonomo/justfolio",
+    "description": "a modest portfolio with great ambition",
+    "type": "drupal-custom-module",
+    "require": {
+        "stephane888/formatage_models": "dev-3x || ^3.2"
+    },
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "justin",
+            "email": "justinonomo@gmail.com"
+        }
+    ]
+}
